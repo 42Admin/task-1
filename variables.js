@@ -1,0 +1,10 @@
+let gamesName = Assassins_creed2 //Assassin's creed 2
+let gameDescription = action // Экшен
+let gameVersion = DefenetiveEdition // Заключительное издание
+let mainCharacterName = Ezio
+let creatorsName = Aleksandr_Amansio // Александр Амансио
+let programmingLanguageVersion = С++
+let mapsName = Florenсе // Флоренция
+let developerWebsite = www.ubisoft.com
+let gameInterfaceLanguage = english
+let gameAge = currentYear - 2009
